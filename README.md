@@ -1,4 +1,4 @@
-# Project Title: HNG_ Project_Supermarket Data
+# Project Title: HNG_ Project_Supermarket_Data
 
 [Introduction](#introduction)
 
