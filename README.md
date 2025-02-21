@@ -18,8 +18,8 @@ The data looks clean and well organized at first glance.
 The data shows that there were no profits on some of the products with the subtraction sign. 
 The data also shows that not all the products were sold on discount.
 
-# Supermaket Analysis Dashboard
-
+# Supermaket Data Analysis Dashboard
+![Supermarket Market Data Capture](https://github.com/user-attachments/assets/7ab58e82-fde6-4803-acd2-e4794db91c46)
 
 # Insights 
 1.	Total Sales = 2,296,196
