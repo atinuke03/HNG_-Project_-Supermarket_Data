@@ -2,7 +2,7 @@
 
 [Introduction](#introduction)
 
-[Key Obaservation](#key-observation)
+[Key Observation](#key-observation)
 
 [Supermarket Data Analysis Dashboard](#supermarket-data-analysis-dashboard)
 
