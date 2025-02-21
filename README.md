@@ -4,6 +4,8 @@
 
 [Key Obaservation](#key-observation)
 
+[Supermarket Data Analysis Dashboard](#supermarket-data-analysis-dashboard)
+
 [Insights](#insights)
 
 [Conclusion](#conclusion)
